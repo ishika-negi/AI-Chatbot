@@ -84,9 +84,8 @@ streamlit run app.py
 
 ## 📸 Preview
 
-<img width="100%" alt="Chatbot Preview" src="images/demo.png">
+<img width="941" height="897" alt="Screenshot 2026-07-22 145001" src="https://github.com/user-attachments/assets/e720f5a3-ed4d-4cd9-80cf-0fb7046e155d" />
 
-> Replace the above image with your own chatbot screenshot.
 
 ---
 
